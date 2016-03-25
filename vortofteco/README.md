@@ -1,3 +1,3 @@
 # Enhavo
 
-Tiu ĉi datumoj venas de http://remush.be/teksto/
+Tiuj ĉi datumoj venas de http://remush.be/teksto/
