@@ -1,3 +1,3 @@
 # Enhavo
 
-Tiu ĉi deponejo enhavas statistikaj datumoj pri Esperanto. Bonvole aldonu viajn.
+Tiu ĉi deponejo enhavas statistikajn datumojn pri Esperanto. Bonvole aldonu viajn.
